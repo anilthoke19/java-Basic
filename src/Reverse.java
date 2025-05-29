@@ -12,7 +12,8 @@ public class Reverse {
 			
 		}
 		System.out.println(nstr);
-		
+
+		//here we can use StringBuffer or StringBuilder and use reverse() method
 		
 		
 	}
